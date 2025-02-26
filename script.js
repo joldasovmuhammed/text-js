@@ -11,5 +11,6 @@ let a = 10;
 const b = 20;
 console.log(a*b);
 a = 50;
-console.log(a/b);
+c = 100;
+console.log(a + b + c);
 
